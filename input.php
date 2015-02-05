@@ -2,12 +2,9 @@
 
 echo ' 
 
-<form action="index.php">
-Introdu te rog textul tau:<br>
-<input type="text" name="text_introdus" size="60" height="4" >
-<br>
-<input type="submit" value="Submit">
-</form>
+<form action="index.php" >
+<textarea name="text_introdus" rows="6" cols="40"></textarea></br><br>
+<input type="submit" value="Submit"><br><br>
 	   
 	   ';
 	   
